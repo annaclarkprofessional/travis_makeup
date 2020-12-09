@@ -1,0 +1,29 @@
+.container {
+  height: 130px;
+  position: relative;
+  /* background-color: brown; */
+}
+
+.container h1 {
+  font-size: 20px;
+}
+
+.container .float-right span {
+  /* font-size: 20px; */
+  /* display: flex;
+  position: absolute; */
+  /* margin: 0 auto; */
+  /* align-items: center; */
+}
+
+.container .text-center {
+  /* display: flex;
+  margin: 0 auto; */
+}
+
+/* .container .text-center .btn {
+  position: absolute;
+  margin-top: 30px;
+  padding-top: 10px;
+  background-color: chartreuse;
+} */
